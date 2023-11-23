@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Valorant</string>
+
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="about_me">About Me</string>
+
+    <string name="detail_agent">Agent Detail</string>
+    <string name="biography">Biography</string>
+    <string name="personality">Personality</string>
+    <string name="appearance">Appearance</string>
+
+    <string name="empty_favorite">There is no favorites list</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="delete_favorite">Remove from favorites</string>
+
+    <string name="back">Back</string>
+    <string name="search">Enter the agent name</string>
+    <string name="empty_data">Empty Data</string>
+</resources>
